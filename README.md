@@ -79,7 +79,7 @@ ML model predicting energy consumption patterns
 
 <div align="center">
   
-💡 *Open to data analyst roles • Remote preferred • Huntsville, AL*
+💡 *Open to entry level data scientist and data analyst roles • Huntsville, AL*
 
 🌸 *Let's turn data into insights together!* 🌸
 
