@@ -2,7 +2,8 @@
   
 # 🌸 Hi, I'm Ashley 🌸
 
-**Computer Science Graduate | Data Analyst**
+**Computer Science Graduate | Entry Level Data Scientist | Data Analyst
+Python, SQL, Pandas, Scikit Learn | EDA | Machine Learning | Data Visualization**
 
 *Transforming data into actionable insights with SQL, Python, and visualization*
 
