@@ -72,8 +72,8 @@ Automated triggers + custom SQL functions for inventory optimization
 **🎮 [Video Game Sales Analysis](https://github.com/ashleyfalconsantana/video-game-sales-analysis)**  
 End-to-end analysis using Excel, Python, SQL, and Power BI
 
-**⚡ [Energy Usage Predictor](https://github.com/ashleyfalconsantana/eco-energy-predictor)**  
-ML model predicting energy consumption patterns
+**📈 [Deloitte Data Analytics Project](https://github.com/ashleyfalconsantana/deloitte-data-analytics-virtual-internship)**  
+End to end data analytics project using Tableau and Excel to deliver operational insights and gender pay equity analysis.
 
 ---
 
