@@ -20,10 +20,6 @@ EDA | Machine Learning | Data Visualization**
 
 </div>
 
-## 🌺 What I'm Working On
-
-Currently building an **[ML Energy Usage Predictor](https://github.com/ashleyfalconsantana/eco-energy-predictor)** to optimize energy consumption and reduce waste.
-
 ## 🛠️ Tech Stack
 
 **Languages**  
